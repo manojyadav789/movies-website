@@ -55,10 +55,11 @@ body{
     width: 10rem;
     height: 80%; 
     background-color: black;
-    background-color: blue;
+    background-color: rgb(57, 52, 52);
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 1px 1px 1px 1px grey;
+    
 }
 
 .outer-container{
@@ -76,7 +77,7 @@ body{
     /* background-color: red; */
     /* position: relative; */
     /* height: 20rem; */
-    height: 90%;
+    height: 70%;
 }
 
 #contentBox{
